@@ -1,4 +1,3 @@
-/* eslint-disable class-methods-use-this */
 import jwt from 'jsonwebtoken';
 import * as Yup from 'yup';
 
